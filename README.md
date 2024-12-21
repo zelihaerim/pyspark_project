@@ -1,4 +1,4 @@
-# pyspark_project 🌟
+# pyspark_project 🌟⭐⭐
 I have created distributed computer system on my local machine to simulate spark cluster with one master and two slave. 👩‍💻
 ![1](https://github.com/user-attachments/assets/b34d4f12-34c5-43fe-9581-c3980cc98887)
 ![2](https://github.com/user-attachments/assets/13a8187c-4f92-4ece-9599-d52217096ac3)
